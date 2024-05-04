@@ -1,0 +1,15 @@
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/dungeon_dragon_cs
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/dungeon_dragon_cs.deps.json
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/dungeon_dragon_cs.runtimeconfig.json
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/dungeon_dragon_cs.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/dungeon_dragon_cs.pdb
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.AssemblyInfoInputs.cache
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.AssemblyInfo.cs
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.csproj.CoreCompileInputs.cache
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.sourcelink.json
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/refint/dungeon_dragon_cs.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.pdb
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.genruntimeconfig.cache
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/ref/dungeon_dragon_cs.dll

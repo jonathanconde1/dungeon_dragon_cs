@@ -1,4 +1,5 @@
 # dungeon_dragon_cs
 practica de c#
 
-# testing
+# creando los archivos necesarios para c#
+dotnet new console
