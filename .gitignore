@@ -1,0 +1,19 @@
+# Directorios de compilación y salida
+bin/
+obj/
+
+# Archivos de configuración específicos del entorno
+*.suo
+*.user
+.vs/
+
+# Archivos de compilación
+*.dll
+*.exe
+
+# Archivos de log y depuración
+*.log
+*.pdb
+
+# Archivos de paquetes NuGet
+packages/
