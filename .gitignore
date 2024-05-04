@@ -17,3 +17,4 @@ obj/
 
 # Archivos de paquetes NuGet
 packages/
+appsettings.json

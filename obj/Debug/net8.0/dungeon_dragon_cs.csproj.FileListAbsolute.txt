@@ -13,3 +13,8 @@
 /home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.pdb
 /home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.genruntimeconfig.cache
 /home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/ref/dungeon_dragon_cs.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/bin/Debug/net8.0/Npgsql.dll
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_dragon_cs.csproj.AssemblyReference.cache
+/home/jonathan/Documentos/proyectos/NET/dungeon_dragon_cs/obj/Debug/net8.0/dungeon_.0DD85499.Up2Date
